@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Paul, a Full-stack Software Developer from Uganda.
+### Hi there 👋, I'm Paul, a Product Engineer and Designer based in Kampala, Uganda.
 
 <!--
 **PaulSebalu/PaulSebalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
