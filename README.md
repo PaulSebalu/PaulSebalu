@@ -1,7 +1,7 @@
-### Hello 👋, I'm Paul, a Developer and Designer based in Kampala, Uganda.
+### Hello 👋 I'm Paul, a Js/Ts Developer who loves working on all ends of the stack and also a budding Product Designer based in Kampala, Uganda.
 
 # 💫 About Me:
-🔭 I’m currently open to consulting work<br>👥 I’m looking to collaborate on really exciting projects<br>🌱 I’m currently learning about Product Management by helping global companies Design, Develop, <br> and track key product metrics in new markets.<br> 
+🔭 I’m currently open to collaborating<br>👥 I’m looking to help with Product work<br>🌱 I’m currently learning about Product Management and DevOps.<br> 
 
 [![](https://visitcount.itsvg.in/api?id=PaulSebalu&icon=5&color=8)](https://visitcount.itsvg.in)
 
