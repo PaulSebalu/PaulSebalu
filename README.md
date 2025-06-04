@@ -1,4 +1,4 @@
-### Hello 👋 I'm Paul, a Js/Ts Developer who loves working on all ends of the stack and with experience as a Product Designer, based in Kampala, Uganda.
+### Hello 👋 I'm Paul, a Js/Ts Developer who loves working on all ends of the stack with experience as a Product Designer, based in Kampala, Uganda.
 
 🔭 I’m currently open to collaborating.<br>👥 I’m looking to help with Product work.<br>🌱 I’m currently learning about Product Management and DevOps.<br> 
 
